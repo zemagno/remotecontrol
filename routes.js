@@ -12,7 +12,7 @@ var controller = require('./controllers/commandController');
 router.get('/', function(request,response){
 	// response.send('hello world');
 
-	response.json({msg:'Hello world !!'});
+	response.json({msg:'Remote Control running...'});
 })
 
 
