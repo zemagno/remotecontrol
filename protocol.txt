@@ -1,0 +1,14 @@
+Protocolo de socket
+
+Cada botao
+1 a 255
+
+
+slider
+0 a 100 + multiplo de 256
+
+slider 1
+256 a 356
+
+slider 2
+512 a 612
